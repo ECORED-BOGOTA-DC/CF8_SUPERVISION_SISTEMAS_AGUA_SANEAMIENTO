@@ -48,6 +48,11 @@ export default {
   background-color: #12263F !important
 .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
   padding-bottom: 0px !important
+  padding-right: 0px !important
+  text-align: center
+.d-none.d-lg-block.col-lg-5.px-0.banner-principal__img img
+  max-width: 400px
+  display: inline
 .banner-principal .tarjeta
   background-position: center !important
 .banner-principal-decorativo-1
@@ -110,4 +115,17 @@ export default {
   background: rgb(222,222,222)
   background: linear-gradient(180deg, rgba(222,222,222,1) 0%, rgba(255,255,255,1) 50%, rgba(222,222,222,1) 100%)
   border-radius: 10px
+.cont_gradiente3, .cont_gradiente3 *
+  position: relative
+.cont_gradiente3:before
+  content: ''
+  position: absolute
+  width: 125%
+  height: 100%
+  left: -15%
+  top: 0
+  background: url(./assets/curso/tema2/32.png)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center
 </style>

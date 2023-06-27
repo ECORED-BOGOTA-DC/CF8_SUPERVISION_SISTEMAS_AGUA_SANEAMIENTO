@@ -27,13 +27,14 @@
     .titulo-srgundo
       h2#t_2_1 2.1 Estudios de tratabilidad
     
-    .row
-      .col-lg-4.mb-4.mb-lg-0(style="place-self:center;")
-        figure
-          img(src="@/assets/curso/tema2/3.png" data-aos="fade-right")
-      .col-lg-8(style="place-self:center;")
-        p(data-aos="fade-up") Teniendo en cuenta el Reglamento técnico de Agua y Saneamiento (RAS, 2010) del Ministerio de Vivienda, Ciudad y Territorio de Colombia (MVCT) en su  título C define los #[span(style="color:#3076B6;") estudios de tratabilidad] como una serie de #[span(style="color:#3076B6;") ensayos de laboratorio] o en planta piloto, realizados por lo menos a dos tipos de aguas crudas, uno representativo de aguas en condiciones de verano y otro de condiciones de invierno, bien sea en laboratorio, usando equipos para prueba de jarras con modificaciones para asegurar la calidad de los datos a obtener, o bien sea realizados en planta piloto. 
-        p.mt-4(data-aos="fade-up") Con los estudios o ensayos de tratabilidad se obtienen los parámetros reales con los cuales se debe diseñar, optimizar, evaluar y operar una planta de tratamiento (p. 67). Dentro de los parámetros básicos a determinar en estos estudios de tratabilidad se encuentran (RAS, 2000, pp. 67, 68). Veamos algunos de ellos:
+    .cont_gradiente3
+      .row
+        .col-lg-4.mb-4.mb-lg-0(style="place-self:center;")
+          figure
+            img(src="@/assets/curso/tema2/3.png" data-aos="fade-right")
+        .col-lg-8(style="place-self:center;")
+          p(data-aos="fade-up") Teniendo en cuenta el Reglamento técnico de Agua y Saneamiento (RAS, 2010) del Ministerio de Vivienda, Ciudad y Territorio de Colombia (MVCT) en su  título C define los #[span(style="color:#3076B6;") estudios de tratabilidad] como una serie de #[span(style="color:#3076B6;") ensayos de laboratorio] o en planta piloto, realizados por lo menos a dos tipos de aguas crudas, uno representativo de aguas en condiciones de verano y otro de condiciones de invierno, bien sea en laboratorio, usando equipos para prueba de jarras con modificaciones para asegurar la calidad de los datos a obtener, o bien sea realizados en planta piloto. 
+          p.mt-4(data-aos="fade-up") Con los estudios o ensayos de tratabilidad se obtienen los parámetros reales con los cuales se debe diseñar, optimizar, evaluar y operar una planta de tratamiento (p. 67). Dentro de los parámetros básicos a determinar en estos estudios de tratabilidad se encuentran (RAS, 2000, pp. 67, 68). Veamos algunos de ellos:
     
     SlyderF.mt-5(columnas="col-lg-4 col-xl-3")
       figure(style="position:relative;")
@@ -344,7 +345,6 @@
       .py-4.py-md-5(titulo="Detección de coliformes" :icono="require('@/assets/curso/tema2/26.svg')")
         .row
           .col-lg-6.mb-4.mb-lg-0
-            h4 Detección de coliformes y E. coli
             p La técnica de filtración por membrana es un método estandarizado para detectar coliformes que consiste en hacer pasar 100 mL de la muestra de agua potable por una membrana filtrante estéril de 0.45 mm y 47 a 55 mm de diámetro, que retiene las bacterias en la superficie del filtro, luego ese filtro se pone sobre una superficie de un agar selectivo, el cual después de un tiempo arrojará colonias de diferentes colores y características específicas.
           .col-lg-6
             figure
@@ -352,7 +352,6 @@
       .py-4.py-md-5(titulo="Sustrato definido" :icono="require('@/assets/curso/tema2/27.svg')")
         .row
           .col-lg-6.mb-4.mb-lg-0
-            h4 Sustrato definido enzimático
             p Prueba que contiene sustratos hidrolizables para la #[span(style="color:#3076B6;") detección de las enzimas ß D galactosidasa] de los coliformes y de las #[span(style="color:#3076B6;") enzimas ß D galactosidasa y ß glucoronidasa de la E. Coli]. El nutriente indicador permite que los microorganismos objeto de la prueba, una vez incubados en un medio reactivo, produzcan color o fluorescencia, indicando y confirmando la presencia del microorganismo objeto de investigación.
           .col-lg-6
             figure
@@ -360,7 +359,6 @@
       .py-4.py-md-5(titulo="Pruebas de presencia" :icono="require('@/assets/curso/tema2/28.svg')")
         .row
           .col-lg-6.mb-4.mb-lg-0
-            h4 Pruebas de presencia- ausencia
             p Esta clase de ensayos microbiológicos es otro de los métodos permitidos por la legislación microbiana para la determinación de coliformes y E. coli. Es un método cualitativo que mediante la #[span(style="color:#3076B6;") presencia de turbidez] o cambios en la apariencia del medio se identifica el crecimiento o no de un microorganismo.
           .col-lg-6
             figure

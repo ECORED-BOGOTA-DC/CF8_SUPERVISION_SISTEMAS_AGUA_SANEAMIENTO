@@ -19,7 +19,6 @@
         .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5.mt-5.mb-5
-              h3.text-white.text-center Muestras simples o puntuales
               h5.text-white.text-center Tomada en un momento determinado, específicas para redes de distribución.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/2.png')})`}")
               .p-3.text-center.w-100(style="background-color:rgb(0 113 179 / 90%);position:absolute;bottom:0;")
@@ -29,7 +28,6 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5.mt-5.mb-5
-              h3.text-white.text-center Muestras compuestas
               h5.text-white.text-center Para caracterizar fuentes de aguas naturales o crudas.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/3.png')})`}")
               .p-3.text-center.w-100(style="background-color:rgb(0 113 179 / 90%);position:absolute;bottom:0;")
@@ -38,7 +36,6 @@
         .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5.mt-5.mb-5
-              h3.text-white.text-center Muestras integradas
               h5.text-white.text-center Aplicables a la caracterización del agua de fuentes superficiales, especialmente en ríos anchos.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/4.png')})`}")
               .p-3.text-center.w-100(style="background-color:rgb(0 113 179 / 90%);position:absolute;bottom:0;")
@@ -51,7 +48,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .p-3.mt-5(style="background-color:#3076B6;border-radius:0px 40px 0px 40px;max-width:600px;" data-aos="fade-up")
-      h3.mb-0.text-white.text-center Toma de muestras en sistemas de distribución de redes.
+      h3.mb-0.text-white.text-center Toma de muestras en sistemas de distribución de redes
     
     p.mt-5(data-aos="fade-up") De acuerdo con el INS (2011) en su manual de instrucciones para la toma, preservación y transporte de muestras de agua de consumo humano para análisis de laboratorio, se realiza la toma de muestras en los sistemas de distribución en redes de agua, este es el procedimiento mínimo que debe ser llevado a cabo:
 
@@ -77,11 +74,11 @@
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 5
-            div Asear el sitio y revisar dispositivo de toma (grifo, válvula de globo, llave, corte rápido) que no haya fugas entre el tambor y el cuello. Limpiar el orificio de salida con una gasa o torunda de algodón con solución de hipoclorito o desinfectante, en los casos en que el material no sea plástico sino metálico, podrá flambear con llama y limpiarse posteriormente con alcohol.
+            div Asear el sitio y revisar dispositivo de toma (grifo, válvula de globo, llave, corte rápido) que no haya fugas entre el tambor y el cuello. Limpiar el orificio de salida con una gasa o torunda de algodón con solución de hipoclorito o desinfectante, en los casos en que el material no sea plástico sino metálico, podrá flamear con llama y limpiarse posteriormente con alcohol.
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 6
-            div Abrir para purgar sistema, dejando fluir el agua mínimo 1 minuto o más, para quitar la estanqueidad del tubo (tener presente pérdidas de aguas, sin detrimento de la purga) asegurando que el agua contenida en las tuberías ha sido renovada y la temperatura del agua se ha estabilizado para tomar las muestras definitivas.
+            div Abrir para purgar sistema, dejando fluir el agua mínimo 1 minuto o más, para quitar la estanqueidad del tubo (tener presente perdidas de aguas, sin detrimento de la purga) asegurando que el agua contenida en las tuberías ha sido renovada y la temperatura del agua se ha estabilizado para tomar las muestras definitivas.
       .col-lg-5(style="place-self:center;")
         figure
           img(src="@/assets/curso/tema1/5.svg" data-aos="fade-left")
@@ -99,7 +96,7 @@
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 8
-            div Tener presente el orden para la toma de las muestras, recolectando las mismas después de haber pasado el tiempo de purga. Inicialmente alistar el material que incluye formatos, insumos y equipos para (pH, cloro y adicionales como color, conductividad y temperatura), obligatorios de realizar en sitio.
+            div Tener presente el orden para la toma de las muestras, recolectando las mismas después de haber pasado el tiempo de purga. Inicialmente, alistar el material que incluye formatos, insumos y equipos para (pH, cloro y adicionales como color, conductividad y temperatura), obligatorios de realizar en sitio.
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 9
@@ -107,7 +104,7 @@
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 10
-            div Recoger seguidamente, volumen de muestra para características microbiológicas ya sea de microorganismos básicos o microorganismos especiales; evitar contaminar recipiente o dispositivo. Recordar preservante para desactivar el cloro libre presente, adicionado antes al recipiente de toma o agregar en sitio. Dejar siempre en la cámara de aire el recipiente, tapar y refrigerar inmediatamente.
+            div Recoger seguidamente, volumen de muestra para características microbiológicas, ya sea de microorganismos básicos o microorganismos especiales; evitar contaminar recipiente o dispositivo. Recordar preservante para desactivar el cloro libre presente, adicionado antes al recipiente de toma o agregar en sitio. Dejar siempre en la cámara de aire el recipiente, tapar y refrigerar inmediatamente.
     
     .row.mt-5
       .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
@@ -137,9 +134,9 @@
           img(src="@/assets/curso/tema1/7.svg" data-aos="fade-left")
     
     .p-3.mt-5(style="background-color:#3076B6;border-radius:0px 40px 0px 40px;max-width:700px;" data-aos="fade-up")
-      h3.mb-0.text-white.text-center Toma de muestras en cuerpos de agua usados para consumo humano.
+      h3.mb-0.text-white.text-center Toma de muestras en cuerpos de agua usados para consumo humano
     
-    p.mt-5(data-aos="fade-up") En algunos casos como en acueductos rudimentarios o municipales, la fuente principal de abastecimiento de agua son los cuerpos de agua de la zona, para este caso se aconseja realizar las siguientes acciones para la toma de la muestra, de acuerdo con el INS (2011).
+    p.mt-5(data-aos="fade-up") En algunos casos, como en acueductos rudimentarios o municipales, la fuente principal de abastecimiento de agua son los cuerpos de agua de la zona, para este caso se aconseja realizar las siguientes acciones para la toma de la muestra, de acuerdo con el INS (2011).
 
     ImagenInfografica.infografica1.color-secundario.mt-5
       template(v-slot:imagen)
