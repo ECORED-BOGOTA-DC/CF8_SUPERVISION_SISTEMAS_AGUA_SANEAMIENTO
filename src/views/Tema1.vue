@@ -10,7 +10,7 @@
     .row.p-2(style="background-color:#F0FBFF;")
       .col-auto(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema1/1.svg" data-aos="fade-right")
+          img(src="@/assets/curso/tema1/1.svg" data-aos="fade-right" alt="Imagen decorativa")
       .col.p-3(style="place-self:center;")
         p.mb-0(data-aos="fade-up") De acuerdo con el Instituto Nacional de Salud (INS) (2011) en su manual de instrucciones para la toma, preservación y transporte de muestras de agua de consumo humano para análisis de laboratorio.  Existen 3 tipos de muestras para analizar física, química y microbiológicamente la calidad del agua. Veamos algunas de ellas:
     
@@ -81,12 +81,12 @@
             div Abrir para purgar sistema, dejando fluir el agua mínimo 1 minuto o más, para quitar la estanqueidad del tubo (tener presente perdidas de aguas, sin detrimento de la purga) asegurando que el agua contenida en las tuberías ha sido renovada y la temperatura del agua se ha estabilizado para tomar las muestras definitivas.
       .col-lg-5(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema1/5.svg" data-aos="fade-left")
+          img(src="@/assets/curso/tema1/5.svg" data-aos="fade-left" alt="Imagen decorativa")
     
     .row.mt-5
       .col-lg-5.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema1/6.svg" data-aos="fade-right")
+          img(src="@/assets/curso/tema1/6.svg" data-aos="fade-right" alt="Imagen decorativa")
       .col-lg-7(style="place-self:center;")
         ol.lista-ol--cuadro.lista-ol--separador
           li.d-flex(data-aos="fade-up")
@@ -131,7 +131,7 @@
             div Entregar al laboratorio como parte de la cadena de custodia el acta de toma de muestra, las muestras tomadas y terminar proceso con firma de recibido por parte del laboratorio.
       .col-lg-5(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema1/7.svg" data-aos="fade-left")
+          img(src="@/assets/curso/tema1/7.svg" data-aos="fade-left" alt="Imagen decorativa")
     
     .p-3.mt-5(style="background-color:#3076B6;border-radius:0px 40px 0px 40px;max-width:700px;" data-aos="fade-up")
       h3.mb-0.text-white.text-center Toma de muestras en cuerpos de agua usados para consumo humano
@@ -141,7 +141,7 @@
     ImagenInfografica.infografica1.color-secundario.mt-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/tema1/8.svg' data-aos="zoom-in-up")
+          img(src='@/assets/curso/tema1/8.svg' data-aos="zoom-in-up" alt="Imagen decorativa")
       .tarjeta.color-acento-contenido.p-3(x="17%" y="55%" numero="1" style="background-color:#4DB1F0;border-radius:0px;border:2px #fff solid;")
         p.mb-0(style="color:#12263F;") Identificar el punto de muestreo tomándolas en el centro y en la orilla del cuerpo de agua, en puntos de turbulencia.
       .tarjeta.color-acento-contenido.p-3(x="26%" y="20%" numero="2" style="background-color:#4DB1F0;border-radius:0px;border:2px #fff solid;")
@@ -169,7 +169,7 @@
       .row.p-4(style="background: rgb(70,164,224);background: linear-gradient(180deg, rgba(70,164,224,1) 0%, rgba(34,98,156,1) 100%);border-radius:10px;")
         .col-lg-1.col-md-3.mb-4.mb-md-0.text-center(style="place-self:center;")
           figure
-            img(src="@/assets/curso/tema1/9.svg" data-aos="fade-right")
+            img(src="@/assets/curso/tema1/9.svg" data-aos="fade-right" alt="Imagen decorativa")
         .col-lg-9.col-md-6.mb-4.mb-md-0(style="place-self:center;")
           h4.text-white(data-aos="fade-up") Práctica muestreo de aguas para análisis microbiológico
           p.text-white.mb-0(data-aos="fade-up") Para conocer más, le invitamos a consultar el documento.
