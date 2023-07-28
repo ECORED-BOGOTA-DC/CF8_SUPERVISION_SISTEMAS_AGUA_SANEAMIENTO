@@ -40,47 +40,47 @@
       figure(style="position:relative;")
         img(src="@/assets/curso/tema2/4.png" alt="Imagen decorativa")
         .p-3.w-100(style="background-color:#E47700;position:absolute;bottom:0;border-radius:0px 0px 10px 10px;")
-          h5.mb-0.text-center.text-white Turbiedad.
+          h5.mb-0.text-center.text-white Turbiedad
       figure(style="position:relative;")
         img(src="@/assets/curso/tema2/5.png" alt="Imagen decorativa")
         .p-3.w-100(style="background-color:#E47700;position:absolute;bottom:0;border-radius:0px 0px 10px 10px;")
-          h5.mb-0.text-center.text-white Color.
+          h5.mb-0.text-center.text-white Color
       figure(style="position:relative;")
         img(src="@/assets/curso/tema2/6.png" alt="Imagen decorativa")
         .p-3.w-100(style="background-color:#E47700;position:absolute;bottom:0;border-radius:0px 0px 10px 10px;")
-          h5.mb-0.text-center.text-white pH.
+          h5.mb-0.text-center.text-white pH
       figure(style="position:relative;")
         img(src="@/assets/curso/tema2/7.png" alt="Imagen decorativa")
         .p-3.w-100(style="background-color:#E47700;position:absolute;bottom:0;border-radius:0px 0px 10px 10px;")
-          h5.mb-0.text-center.text-white Alcalinidad.
+          h5.mb-0.text-center.text-white Alcalinidad
       figure(style="position:relative;")
         img(src="@/assets/curso/tema2/8.png" alt="Imagen decorativa")
         .p-3.w-100(style="background-color:#E47700;position:absolute;bottom:0;border-radius:0px 0px 10px 10px;")
-          h5.mb-0.text-center.text-white Temperatura.
+          h5.mb-0.text-center.text-white Temperatura
       figure(style="position:relative;")
         img(src="@/assets/curso/tema2/9.png" alt="Imagen decorativa")
         .p-3.w-100(style="background-color:#E47700;position:absolute;bottom:0;border-radius:0px 0px 10px 10px;")
-          h5.mb-0.text-center.text-white Conductividad.
+          h5.mb-0.text-center.text-white Conductividad
       figure(style="position:relative;")
         img(src="@/assets/curso/tema2/10.png" alt="Imagen decorativa")
         .p-3.w-100(style="background-color:#E47700;position:absolute;bottom:0;border-radius:0px 0px 10px 10px;")
-          h5.mb-0.text-center.text-white Hierro.
+          h5.mb-0.text-center.text-white Hierro
       figure(style="position:relative;")
         img(src="@/assets/curso/tema2/11.png" alt="Imagen decorativa")
         .p-3.w-100(style="background-color:#E47700;position:absolute;bottom:0;border-radius:0px 0px 10px 10px;")
-          h5.mb-0.text-center.text-white Cloruro.
+          h5.mb-0.text-center.text-white Cloruro
       figure(style="position:relative;")
         img(src="@/assets/curso/tema2/12.png" alt="Imagen decorativa")
         .p-3.w-100(style="background-color:#E47700;position:absolute;bottom:0;border-radius:0px 0px 10px 10px;")
-          h5.mb-0.text-center.text-white Sulfato.
+          h5.mb-0.text-center.text-white Sulfato
       figure(style="position:relative;")
         img(src="@/assets/curso/tema2/13.png" alt="Imagen decorativa")
         .p-3.w-100(style="background-color:#E47700;position:absolute;bottom:0;border-radius:0px 0px 10px 10px;")
-          h5.mb-0.text-center.text-white Nitrato.
+          h5.mb-0.text-center.text-white Nitrato
       figure(style="position:relative;")
         img(src="@/assets/curso/tema2/14.png" alt="Imagen decorativa")
         .p-3.w-100(style="background-color:#E47700;position:absolute;bottom:0;border-radius:0px 0px 10px 10px;")
-          h5.mb-0.text-center.text-white Dureza.
+          h5.mb-0.text-center.text-white Dureza
     
     .row.mt-5
       .col-lg-8.mb-4.mb-lg-0(style="place-self:center;")
@@ -397,10 +397,6 @@
           a.boton.color-primario(href="https://drive.google.com/file/d/1AD0g_QCEZGabPIL7AN37lkdSnAj0UazQ/view?usp=sharing" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-download
-    
-    figure.mt-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
  
 

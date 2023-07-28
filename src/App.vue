@@ -51,7 +51,7 @@ export default {
   padding-right: 0px !important
   text-align: center
 .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img img
-  max-width: 400px
+  max-width: 300px
   display: inline
 .banner-principal .tarjeta
   background-position: center !important
