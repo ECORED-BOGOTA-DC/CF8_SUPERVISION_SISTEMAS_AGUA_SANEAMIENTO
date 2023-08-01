@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Síntesis: Calidad del agua potable")
+          img(src="@/assets/curso/sintesis.svg", alt="Esquema gráfico que resume lo abordado en el componente formativo, indicando los procesos que se deben tener en cuenta para tener calidad en el agua potable. Estos son: Monitoreo, Ensayos, microbiológicos, Ensayos de laboratorio, Análisis de muestra de agua potable")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
