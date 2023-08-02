@@ -178,7 +178,7 @@ export default {
         'https://drive.google.com/file/d/1cNwKtiQYNbx3PQ6VegsjA2Az8EvR1wXb/view?usp=sharing',
     },
     {
-      tema: 'Análisis de muestras de agua potable)',
+      tema: 'Análisis de muestras de agua potable',
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). 2019. Práctica de laboratorio determinación de demanda química de oxígeno. Centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
@@ -186,7 +186,7 @@ export default {
         'https://drive.google.com/file/d/1GGJeOlK8BBNt89C2bG8oB4yAl0dPc3mp/view?usp=sharing',
     },
     {
-      tema: 'Análisis de muestras de agua potable)',
+      tema: 'Análisis de muestras de agua potable',
       referencia:
         'Servicio nacional de aprendizaje (SENA). 2020. Determinación de mesófilos, coliformes, y e.coli en agua potable mediante filtración por membrana. centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
@@ -194,7 +194,7 @@ export default {
         'https://drive.google.com/file/d/1_R1RWUJSFuP9LzSv_pNOtiGtIddAsP-I/view?usp=sharing',
     },
     {
-      tema: 'Análisis de muestras de agua potable)',
+      tema: 'Análisis de muestras de agua potable',
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). 2020. Práctica de laboratorio preparación de medios de cultivo para análisis microbiológico. Centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
@@ -337,7 +337,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Gloria Lida Alzáte Suarez',
+          nombre: 'Gloria Lida Álzate Suarez',
           cargo: 'Adecuación instruccional - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',

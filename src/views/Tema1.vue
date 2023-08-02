@@ -41,7 +41,7 @@
               .p-3.text-center.w-100(style="background-color:rgb(0 113 179 / 90%);position:absolute;bottom:0;")
                 h3.text-white.mb-0 Muestras integradas
     
-    p.mt-5(data-aos="fade-up") Para garantizar la calidad del agua potable y que esta no afecte la salud humana es necesario conocer los estrictos controles que se deben tener en cuenta para hacer un correcto muestreo de este tipo de agua, para conocer los procedimientos se invita a ver el vídeo que se presenta a continuación:
+    p.mt-5(data-aos="fade-up") Para garantizar la calidad del agua potable y que esta no afecte la salud humana es necesario conocer los estrictos controles que se deben tener en cuenta para hacer un correcto muestreo de este tipo de agua, para conocer los procedimientos se invita a ver el video que se presenta a continuación:
 
     figure.mt-5
       .video
@@ -117,7 +117,7 @@
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 12
-            div Diligenciar el formato del acta, identifique las muestras, empaque en las neveras plásticas o de icopor con material refrigerante, en lo posible siempre ice pack (evitar bolsas de hielo o hielo seco) Firmar y hacer firmar el acta por parte de la persona prestadora si hubo toma de contra muestra, registrando todos los datos necesarios para reportar al sistema.
+            div Diligenciar el formato del acta, identifique las muestras, empaque en las neveras plásticas o de icopor con material refrigerante, en lo posible siempre ice pack (evitar bolsas de hielo o hielo seco). Firmar y hacer firmar el acta por parte de la persona prestadora si hubo toma de contra muestra, registrando todos los datos necesarios para reportar al sistema.
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 13
