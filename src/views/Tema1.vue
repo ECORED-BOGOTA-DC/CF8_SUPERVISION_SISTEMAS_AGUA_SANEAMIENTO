@@ -175,7 +175,7 @@
           h4.text-white(data-aos="fade-up") Práctica muestreo de aguas para análisis microbiológico
           p.text-white.mb-0(data-aos="fade-up") Para conocer más, le invitamos a consultar el documento.
         .col-lg-2.col-md-3.text-center(style="place-self:center;")
-          a.boton.color-primario(href="https://drive.google.com/file/d/1bfAXzxYw9by3ZoW7uNoXS14SMETwAVKY/view?usp=sharing" target="_blank" type="application/pdf")
+          a.boton.color-primario(:href="obtenerLink('downloads/PRACTICA_MUESTREO_DE_AGUAS_PARA_ANALISIS_MICROBIOLOGICO.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-download
 

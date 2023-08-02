@@ -118,88 +118,82 @@ export default {
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). 2020. Práctica de laboratorio el muestreo de agua potable para análisis microbiológico. Centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1bfAXzxYw9by3ZoW7uNoXS14SMETwAVKY/view?usp=sharing',
+      descarga:
+        'downloads/PRACTICA_MUESTREO_DE_AGUAS_PARA_ANALISIS_MICROBIOLOGICO.pdf',
     },
     {
       tema: 'Análisis de muestras de agua potable',
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). 2017. Instructivo para el ensayo de test de jarras. Centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1I5Hgn4tqEJIdrnymZOCHQ_LXRVhHtwLx/view?usp=sharing',
+      descarga: 'downloads/PRACTICA_DE_TEST_DE_JARRAS.pdf',
     },
     {
       tema: 'Análisis de muestras de agua potable',
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). 2019. Práctica de laboratorio determinación de acidez en agua. Centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1DzRGCVijX7t9U5YRbN-W8ZK5a-odk3ud/view?usp=sharing',
+      descarga:
+        'downloads/PRACTICA_DE_LABORATORIO_DETERMINACION_DE_ACIDEZ_EN_AGUA.pdf',
     },
     {
       tema: 'Análisis de muestras de agua potable',
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). 2019. Práctica de laboratorio determinación de alcalinidad en agua. Centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1TX8ok6lWMvfJZghNq4gHsEBz3rzUqpRL/view?usp=sharing',
+      descarga: 'downloads/PRACTICA_DETERMINACION_DE_ALCALINIDAD_EN_AGUA.pdf',
     },
     {
       tema: 'Análisis de muestras de agua potable',
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). 2019. Práctica de laboratorio determinación de cloruros en agua. Centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1pv4VfB9QqSAoFihzX82hoWOGrNOBIPzD/view?usp=sharing',
+      descarga: 'downloads/Practica_DETERMINACION_DE_CLORUROS_EN_AGUA.pdf',
     },
     {
       tema: 'Análisis de muestras de agua potable',
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). 2019. Práctica de laboratorio determinación de cloro residual en agua. Centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1gxhL3TUcuqalruAZ0__yrt2YPPHLxd-k/view?usp=sharing',
+      descarga:
+        'downloads/PRACTICA_DETERMINACION_DE_CLORO_RESIDUAL_EN_AGUA.pdf',
     },
     {
       tema: 'Análisis de muestras de agua potable',
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). 2019. Práctica de laboratorio determinación de conductividad en agua. Centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/15Yo3-sMmrMtpRNmnkuOHe7yzrHcuAUFo/view?usp=sharing',
+      descarga: 'downloads/Practica_DETERMINACION_DE_CONDUCTIVIDAD_EN_AGUA.pdf',
     },
     {
       tema: 'Análisis de muestras de agua potable',
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). 2019. Práctica de laboratorio determinación de dureza en agua. Centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1cNwKtiQYNbx3PQ6VegsjA2Az8EvR1wXb/view?usp=sharing',
+      descarga: 'downloads/PRACTICA_DETERMINACION_DE_DUREZA_TOTAL_EN_AGUA.pdf',
     },
     {
       tema: 'Análisis de muestras de agua potable',
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). 2019. Práctica de laboratorio determinación de demanda química de oxígeno. Centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1GGJeOlK8BBNt89C2bG8oB4yAl0dPc3mp/view?usp=sharing',
+      descarga:
+        'downloads/PRACTICA_DETERMINACION_DE_DEMANDA_QUIMICA_DE_OXIGENO_(DQO)_EN_AGUA.pdf',
     },
     {
       tema: 'Análisis de muestras de agua potable',
       referencia:
         'Servicio nacional de aprendizaje (SENA). 2020. Determinación de mesófilos, coliformes, y e.coli en agua potable mediante filtración por membrana. centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1_R1RWUJSFuP9LzSv_pNOtiGtIddAsP-I/view?usp=sharing',
+      descarga:
+        'downloads/PRACTICA_DE_LABORATORIO_FILTRACION_POR_MEMBRANA_COLIFORMES.pdf',
     },
     {
       tema: 'Análisis de muestras de agua potable',
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). 2020. Práctica de laboratorio preparación de medios de cultivo para análisis microbiológico. Centro de gestión industrial (CGI).',
       tipo: 'Ejemplo práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1AD0g_QCEZGabPIL7AN37lkdSnAj0UazQ/view?usp=sharing',
+      descarga: 'downloads/PRACTICA_PREPARACION_DE_MEDIOS_DE_CULTIVO.pdf',
     },
   ],
   glosario: [
