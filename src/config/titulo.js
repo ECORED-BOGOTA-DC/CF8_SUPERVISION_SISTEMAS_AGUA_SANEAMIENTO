@@ -1,1 +1,1 @@
-module.exports = 'Calidad del agua potable.'
+module.exports = 'Calidad del agua potable'
