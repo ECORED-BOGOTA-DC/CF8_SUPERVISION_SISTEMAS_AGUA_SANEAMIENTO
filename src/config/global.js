@@ -247,7 +247,7 @@ export default {
     {
       referencia:
         'Instituto nacional de salud [INS]. (2011). Manual de instrucciones para la toma, preservación, transporte de muestras de agua para consumo humano para análisis de laboratorio. ISBN 978-958-13-0147-8.',
-      link: 'https://www.ins.gov.co/sivicap/Documentacin%20SIVICAP',
+      link: '',
     },
     {
       referencia:
