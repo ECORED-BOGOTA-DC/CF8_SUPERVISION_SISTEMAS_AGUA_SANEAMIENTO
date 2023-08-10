@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 De acuerdo con la resolución 2115 de 2007, por medio de la cual los Ministerios de la #[strong Protección Social y de Ambiente, Vivienda y Desarrollo Territorial] señalan características, instrumentos básicos y frecuencias del sistema de control y vigilancia para la calidad del agua para consumo humano, se establece que el agua para este fin debe cumplir con #[span(style="color:#3076B6;") requisitos] de calidad #[span(style="color:#3076B6;") físico química] y #[span(style="color:#3076B6;") microbiológica] durante todo el tiempo en el cual se estableció que el sistema de abastecimiento sería utilizado.
+        p.mb-0 De acuerdo con la resolución 2115 de 2007, por medio de la cual los Ministerios de la #[strong Protección Social y de Ambiente, Vivienda y Desarrollo Territorial] señalan características, instrumentos básicos y frecuencias del sistema de control y vigilancia para la calidad del agua para consumo humano, se establece que el agua para este fin debe cumplir con #[span(style="color:#3076B6;") requisitos] de calidad #[span(style="color:#3076B6;") fisicoquímica] y #[span(style="color:#3076B6;") microbiológica] durante todo el tiempo en el cual se estableció que el sistema de abastecimiento sería utilizado.
     
     .row.mt-5
       .col-lg-5.mb-4.mb-lg-0(style="place-self:center;")
@@ -84,7 +84,7 @@
     
     .row.mt-5
       .col-lg-8.mb-4.mb-lg-0(style="place-self:center;")
-        p.mb-0(data-aos="fade-up") Estos parámetros pueden brindar la información para la caracterización del agua muestreada, determinar procesos unitarios dentro de la tratabilidad o potabilización, como es en el caso de #[span(style="color:#3076B6;")  identificar la dosis adecuada] de coagulante, floculante, cloro, entre otros. A su vez para definir tiempos óptimos de funcionamiento, de retención, efectividad del proceso, remoción esperada, entre otros.
+        p.mb-0(data-aos="fade-up") Estos parámetros pueden brindar la información para la caracterización del agua muestreada, determinar procesos unitarios dentro de la tratabilidad o potabilización, como es en el caso de #[span(style="color:#3076B6;")  identificar la dosis adecuada] de coagulante, floculante, cloro, entre otros. A su vez, para definir tiempos óptimos de funcionamiento, de retención, efectividad del proceso, remoción esperada, entre otros.
       .col-lg-4(style="place-self:center;")
         figure
           img(src="@/assets/curso/tema2/15.png" data-aos="fade-left" alt="Imagen decorativa")
@@ -108,7 +108,7 @@
         figure
           img(src="@/assets/curso/tema2/17.svg" data-aos="fade-right" alt="Imagen decorativa")
       .col-lg-7(style="place-self:center;")
-        p(data-aos="fade-up") También llamado test de jarras es un proceso reglamentado bajo la NTC 3903 de 2010, su objetivo básico es la determinación de los #[span(style="color:#3076B6;") coagulantes y auxiliares] (metálicos o prepolimerizados) sus dosis óptimas, secuencia de adición de estos para una turbiedad, un color, un pH, una temperatura, una alcalinidad y una dureza.
+        p(data-aos="fade-up") También llamado test de jarras, es un proceso reglamentado bajo la NTC 3903 de 2010, su objetivo básico es la determinación de los #[span(style="color:#3076B6;") coagulantes y auxiliares] (metálicos o prepolimerizados) sus dosis óptimas, secuencia de adición de estos para una turbiedad, un color, un pH, una temperatura, una alcalinidad y una dureza.
         p.mt-4(data-aos="fade-up") En el test de jarras se simulan procesos de coagulación y floculación, como determinantes importantes del acondicionamiento de partículas para la separación de sólidos suspendidos y disueltos en el agua mediante los procesos de #[span(style="color:#3076B6;") sedimentación y filtración].
     
     .col-lg-8.m-auto.mt-5
@@ -136,7 +136,7 @@
         figure
           img(src="@/assets/curso/tema2/18.svg" data-aos="fade-right" alt="Imagen decorativa")
       .col-lg-7(style="place-self:center;")
-        p(data-aos="fade-up") La determinación de acidez en el agua permite conocer el contenido de sustancias ácidas expresadas como CaCO3, este valor es de gran importancia en el tratamiento y depuración de las aguas ya que muestra el comportamiento que tendrá frente de la subida del pH con bases fuertes. Normalmente un agua con un valor de acidez alto presentará una mayor oposición a las subidas de pH y la probable presencia de diferentes sustancias contaminantes, de allí la importancia de su determinación.
+        p(data-aos="fade-up") La determinación de acidez en el agua permite conocer el contenido de sustancias ácidas expresadas como CaCO3, este valor es de gran importancia en el tratamiento y depuración de las aguas, ya que muestra el comportamiento que tendrá frente de la subida del pH con bases fuertes. Normalmente un agua con un valor de acidez alto presentará una mayor oposición a las subidas de pH y la probable presencia de diferentes sustancias contaminantes, de allí la importancia de su determinación.
       p.mb-0.mt-4(data-aos="fade-up") Se invita a consultar el siguiente ejemplo de práctica de laboratorio para determinar la acidez en el agua:
     
     .col-lg-10.m-auto.mt-5
@@ -185,7 +185,7 @@
         figure
           img(src="@/assets/curso/tema2/20.png" data-aos="fade-right" alt="Imagen decorativa")
       .col-lg-7(style="place-self:center;")
-        p.mb-0(data-aos="fade-up")  Debido a que el #[span(style="color:#3076B6;") cloro] es ampliamente utilizado en los procesos de desinfección gracias a su alta eficiencia y bajo costo, se hace necesario la determinación de #[span(style="color:#3076B6;") cloro residual]. En las aguas crudas el cloro residual se forma cuando hay presencia de #[strong amoniaco o sustancias orgánicas]. En el agua potable se hace necesario determinar el cloro residual ya que el consumidor presenta un fuerte rechazo al sabor que genera en altas concentraciones.
+        p.mb-0(data-aos="fade-up")  Debido a que el #[span(style="color:#3076B6;") cloro] es ampliamente utilizado en los procesos de desinfección gracias a su alta eficiencia y bajo costo, se hace necesario la determinación de #[span(style="color:#3076B6;") cloro residual]. En las aguas crudas el cloro residual se forma cuando hay presencia de #[strong amoniaco o sustancias orgánicas]. En el agua potable se hace necesario determinar el cloro residual, ya que el consumidor presenta un fuerte rechazo al sabor que genera en altas concentraciones.
     
     p.mt-5(data-aos="fade-up") Se invita a consultar este ejemplo de práctica de laboratorio para determinar el cloro residual en el agua:
 
@@ -207,7 +207,7 @@
     
     .row.mt-5
       .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
-        p.mb-0(data-aos="fade-up") Es importante determinar la concentración de cloruros en el agua porque estos afectan la calidad del suelo, por ejemplo, si el agua que se está tratando tiene una alta concentración de cloruros y se utiliza en el riego agrícola, los productos vegetales no van a crecer. También es importante la concentración de cloruros si se va a utilizar el agua en el lavado de estructuras metálicas ya que promoverá la corrosión y por ende disminuirá la vida útil de dicha estructura.
+        p.mb-0(data-aos="fade-up") Es importante determinar la concentración de cloruros en el agua porque estos afectan la calidad del suelo, por ejemplo, si el agua que se está tratando tiene una alta concentración de cloruros y se utiliza en el riego agrícola, los productos vegetales no van a crecer. También es importante la concentración de cloruros si se va a utilizar el agua en el lavado de estructuras metálicas, ya que promoverá la corrosión y por ende disminuirá la vida útil de dicha estructura.
       .col-lg-5(style="place-self:center;")
         figure
           img(src="@/assets/curso/tema2/21.png" data-aos="fade-left" alt="Imagen decorativa")
@@ -257,7 +257,7 @@
     
     .row.mt-5
       .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
-        p.mb-0(data-aos="fade-up") La dureza del agua es la suma de las #[span(style="color:#3076B6;") concentraciones de calcio y magnesio] expresadas como CaCO3.  Es fundamental la medición ya que estás sales al cristalizar ocasionan obstrucción en las tuberías lo que lleva a pérdidas de presión en el sistema y mayor consumo energético.
+        p.mb-0(data-aos="fade-up") La dureza del agua es la suma de las #[span(style="color:#3076B6;") concentraciones de calcio y magnesio] expresadas como CaCO3.  Es fundamental la medición, ya que estás sales al cristalizar ocasionan obstrucción en las tuberías, lo que lleva a pérdidas de presión en el sistema y mayor consumo energético.
         p.mt-4(data-aos="fade-up") En particular se han realizado diferentes estudios donde se establece que el #[span(style="color:#3076B6;") agua con dureza] genera problemas cardiacos en sus consumidores, de allí que es importante realizar las etapas de ablandamiento al final del proceso de potabilización.  
       .col-lg-5(style="place-self:center;")
         figure
@@ -337,7 +337,7 @@
 
     .col-lg-8.m-auto.mt-5
       .cajon.color-acento-botones.p-4.mt-5(style="background-color:#98D8D7;")
-        p.mb-0(data-aos="fade-up") De acuerdo con el decreto 2115 de 2007 las características microbiológicas del agua para consumo humano deben enmarcarse en los valores máximos aceptables desde el punto de vista microbiológico, definidos en #[span(style="color:#3076B6;") Unidad Formadora de Colonia] (UFC) o 1 microorganismo en 100 cm3  o 1 mL de muestra.
+        p.mb-0(data-aos="fade-up") De acuerdo con el decreto 2115 de 2007 las características microbiológicas del agua para consumo humano deben enmarcarse en los valores máximos aceptables desde el punto de vista microbiológico, definidos en #[span(style="color:#3076B6;") Unidad Formadora de Colonia] (UFC) o 1 microorganismo en 100 cm#[sup 3] o 1 mL de muestra.
     
     p.mt-5(data-aos="fade-up") Una UFC hace referencia a una célula microbiana presente en una muestra que es capaz de multiplicarse para formar una colonia. Una Colonia es una agrupación visible de bacterias que pertenecen a la misma especie y que son hijas de la misma célula madre. A continuación, se presenta algunos ensayos aplicables:
 

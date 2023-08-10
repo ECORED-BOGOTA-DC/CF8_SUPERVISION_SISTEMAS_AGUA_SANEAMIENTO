@@ -75,7 +75,7 @@
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 5
-            div Asear el sitio y revisar dispositivo de toma (grifo, válvula de globo, llave, corte rápido) que no haya fugas entre el tambor y el cuello. Limpiar el orificio de salida con una gasa o torunda de algodón con solución de hipoclorito o desinfectante, en los casos en que el material no sea plástico sino metálico, podrá flamear con llama y limpiarse posteriormente con alcohol.
+            div Asear el sitio y revisar dispositivo de toma (grifo, válvula de globo, llave, corte rápido) que no haya fugas entre el tambor y el cuello. Limpiar el orificio de salida con una gasa o torunda de algodón con solución de hipoclorito o desinfectante, en los casos en que el material no sea plástico, sino metálico, podrá flamear con llama y limpiarse posteriormente con alcohol.
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 6
@@ -93,7 +93,7 @@
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 7
-            div Tomar la muestra y la contra muestra, contando incluso el tiempo de purga, en un lapso no superior a 10 minutos sin que el agua deje de fluir, siempre y cuando se tome muestra y contra amuestra para todas las características. Si es sólo muestra y para algunas de las características, la toma debe realizarse entre 3 y 5 minutos máximo, para considerar la toma como única en los procesos de vigilancia y control.
+            div Tomar la muestra y la contra muestra, contando incluso el tiempo de purga, en un lapso no superior a 10 minutos sin que el agua deje de fluir, siempre y cuando se tome muestra y contramuestra para todas las características. Si es solo muestra y para algunas de las características, la toma debe realizarse entre 3 y 5 minutos máximo, para considerar la toma como única en los procesos de vigilancia y control.
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 8
