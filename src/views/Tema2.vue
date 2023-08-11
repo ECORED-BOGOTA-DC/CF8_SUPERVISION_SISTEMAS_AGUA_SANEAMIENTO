@@ -98,7 +98,7 @@
       img(src="@/assets/curso/tema2/16.png" data-aos="zoom-in-up" alt="Imagen decorativa")
     .col-lg-10.m-auto
       .p-4.cont_gradiente_gris
-        p.mb-0(data-aos="fade-up") Antes de definir el diseño de una planta de tratamiento de agua potable (PTAP) se deben realizar ensayos de laboratorio para conocer las características, físico químicas y microbiológicas del agua, esto brindará la información necesaria que permite definir si el tipo de tratamiento que el agua requiere es convencional o no convencional. También se hace fundamental conocer algunas definiciones según reglamentación de la Norma Técnica Colombiana #[strong NTC].
+        p.mb-0(data-aos="fade-up") Antes de definir el diseño de una planta de tratamiento de agua potable (PTAP) se deben realizar ensayos de laboratorio para conocer las características, fisicoquímica y microbiológicas del agua, esto brindará la información necesaria que permite definir si el tipo de tratamiento que el agua requiere es convencional o no convencional. También se hace fundamental conocer algunas definiciones según reglamentación de la Norma Técnica Colombiana #[strong NTC].
     
     .p-3.mt-5(style="background-color:#3076B6;border-radius:0px 40px 0px 40px;max-width:300px;" data-aos="fade-up")
       h3.mb-0.text-white.text-center Ensayo de jarras
