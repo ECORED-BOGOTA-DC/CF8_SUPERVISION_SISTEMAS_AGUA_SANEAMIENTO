@@ -93,7 +93,7 @@
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 7
-            div Tomar la muestra y la contra muestra, contando incluso el tiempo de purga, en un lapso no superior a 10 minutos sin que el agua deje de fluir, siempre y cuando se tome muestra y contramuestra para todas las características. Si es solo muestra y para algunas de las características, la toma debe realizarse entre 3 y 5 minutos máximo, para considerar la toma como única en los procesos de vigilancia y control.
+            div Tomar la muestra y la contramuestra, contando incluso el tiempo de purga, en un lapso no superior a 10 minutos sin que el agua deje de fluir, siempre y cuando se tome muestra y contramuestra para todas las características. Si es solo muestra y para algunas de las características, la toma debe realizarse entre 3 y 5 minutos máximo, para considerar la toma como única en los procesos de vigilancia y control.
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 8
@@ -117,7 +117,7 @@
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 12
-            div Diligenciar el formato del acta, identifique las muestras, empaque en las neveras plásticas o de icopor con material refrigerante, en lo posible siempre ice pack (evitar bolsas de hielo o hielo seco). Firmar y hacer firmar el acta por parte de la persona prestadora si hubo toma de contra muestra, registrando todos los datos necesarios para reportar al sistema.
+            div Diligenciar el formato del acta, identifique las muestras, empaque en las neveras plásticas o de icopor con material refrigerante, en lo posible siempre ice pack (evitar bolsas de hielo o hielo seco). Firmar y hacer firmar el acta por parte de la persona prestadora si hubo toma de contramuestra, registrando todos los datos necesarios para reportar al sistema.
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta(style="background-color:#ED8E1E;")
               span.fw-bold 13

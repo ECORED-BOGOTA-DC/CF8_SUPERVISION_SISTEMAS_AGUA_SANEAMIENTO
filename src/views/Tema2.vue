@@ -198,7 +198,7 @@
           h4.text-white(data-aos="fade-up") Práctica determinación de cloro residual en agua
           p.text-white.mb-0(data-aos="fade-up") Para conocer más, le invitamos a consultar el documento.
         .col-lg-2.col-md-3.text-center(style="place-self:center;")
-          a.boton.color-primario(:href="obtenerLink('downloads/Practica_DETERMINACION_DE_CLORUROS_EN_AGUA.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-primario(:href="obtenerLink('downloads/PRACTICA_DETERMINACION_DE_CLORO_RESIDUAL_EN_AGUA.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-download
     
@@ -223,7 +223,7 @@
           h4.text-white(data-aos="fade-up") Práctica determinación de cloruros en agua
           p.text-white.mb-0(data-aos="fade-up") Para conocer más, le invitamos a consultar el documento.
         .col-lg-2.col-md-3.text-center(style="place-self:center;")
-          a.boton.color-primario(:href="obtenerLink('downloads/PRACTICA_DETERMINACION_DE_CLORO_RESIDUAL_EN_AGUA.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-primario(:href="obtenerLink('downloads/Practica_DETERMINACION_DE_CLORUROS_EN_AGUA.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-download
     
