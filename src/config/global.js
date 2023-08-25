@@ -274,6 +274,20 @@ export default {
           cargo: 'Evaluador Instruccional',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
+
+        {
+          nombre: 'Sergio Arturo Medina Castillo',
+          cargo: 'Diseñador Instruccional',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Adriana Lozano Zapata',
+          cargo: 'Revisora de estilo',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+        },
+
         {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo: 'Revisión Metodológica y Pedagógica',
